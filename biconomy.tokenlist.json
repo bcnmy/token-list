@@ -41,7 +41,7 @@
     },
     {
       "chainId": 56,
-      "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+      "address": "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -57,7 +57,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -73,7 +73,7 @@
     },
     {
       "chainId": 137,
-      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -81,7 +81,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -105,7 +105,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -121,7 +121,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -145,7 +145,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18,
@@ -169,7 +169,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
