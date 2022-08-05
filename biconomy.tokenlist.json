@@ -41,7 +41,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "address": "0x0000000000000000000000000000000000001010",
       "name": "Polygon Matic",
       "symbol": "Matic",
       "decimals": 18,
