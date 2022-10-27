@@ -179,6 +179,15 @@
       "isNative": false
     },
     {
+      "chainId": 43113,
+      "address": "0xC74dB45a7D3416249763c151c6324Ceb6B3217fd",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "isNative": false
+    },
+    {
       "chainId": 1,
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "name": "Wrapped BTC",
