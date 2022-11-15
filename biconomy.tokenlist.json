@@ -54,7 +54,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "address": "0x0000000000000000000000000000000000001010",
       "name": "Polygon Matic",
       "symbol": "Matic",
       "decimals": 18,
@@ -179,6 +179,15 @@
       "isNative": false
     },
     {
+      "chainId": 80001,
+      "address": "0xeabc4b91d9375796aa4f69cc764a4ab509080a58",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "isNative": false
+    },
+    {
       "chainId": 1,
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "name": "Wrapped BTC",
@@ -244,6 +253,15 @@
     {
       "chainId": 80001,
       "address": "0x321507ea5218ee046ac0c94c1749c487b7236051",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "isNative": false
+    },
+    {
+      "chainId": 80001,
+      "address": "0xda5289fcaaf71d52a80a254da614a192b693e977",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
