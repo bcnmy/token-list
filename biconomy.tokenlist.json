@@ -44,6 +44,15 @@
       "isNative": true
     },
     {
+      "chainId": 97,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "BNB Coin",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "isNative": true
+    },
+    {
       "chainId": 137,
       "address": "0x0000000000000000000000000000000000001010",
       "name": "Polygon Matic",
